@@ -6,5 +6,5 @@ for(int k = 1; k <= v; k++){
                 
             }
         }
-
+//v is the number of vertices in the graph
 //Remember to initialize adj matrix to INF where i != j
